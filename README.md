@@ -5,3 +5,6 @@ Abstract: Medical data processing and analytics exert significant influence in f
 
 
 This File instucts on Mutli-Objective Optimal Medical (MooM) Datasets
+
+1. Chronic kidney disease EHRs Abu Dhabi - Electronic health records of patients with chronic kidney disease from Abu Dhabi (https://www.kaggle.com/datasets?search=electronic+health+records)
+2. Hospitals in the United States Exploring hospital type, ownership, and location (https://www.kaggle.com/datasets/thedevastator/hospitals-in-the-united-states-a-comprehensive-d)
